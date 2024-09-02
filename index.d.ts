@@ -1,3 +1,4 @@
 export interface iSelf {
-    name: string
+    name: string;
+    age: number
 }
