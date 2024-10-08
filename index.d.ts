@@ -3,4 +3,5 @@ export interface iSelf {
     age: number;
     address: string;
     able: string;
+    sex: string;
 }
