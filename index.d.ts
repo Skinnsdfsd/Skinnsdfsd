@@ -4,4 +4,5 @@ export interface iSelf {
     address: string;
     able: string;
     sex: string;
+    day: string;
 }
